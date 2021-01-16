@@ -1,0 +1,44 @@
+Project Finalised at Sat Nov 28 12:24:11 SAST 2020
+Expected deadline: 01-12-2020
+Project Number: 2
+Project Name: Twin City
+Building type: Mall
+Physical Adress: 2351 Rocklands Bloemfontein FreeState
+ERF number: 315
+Total fee charged: 15000000
+Total amount paid to date: 300
+Architect name: Charls Madison
+Telephone number: 083-123-4256
+Email address: Charles@fakemail.com
+Physical Adress: 2243 Dark Lane str Bloemfontein
+Contractor name: Chet L Mattson1
+Telephone number: 082-134-5412
+Email address: Chet L Mattson
+Physical Adress: 124 Wales rd East London
+Customer name: Tlotliso Mofokeng
+Telephone number: 084-222-4355
+Email address: tlotli@mail.com
+Physical Adress: address
+
+Project Finalised at Sat Nov 28 12:25:22 SAST 2020
+Expected deadline: 15-02-2020
+Project Number: 1
+Project Name: River View
+Building type: Apartment block
+Physical Adress: 622  Plein Str Cape Town Western Cape
+ERF number: 938
+Total fee charged: 60000000
+Total amount paid to date: 38000000
+Architect name: Charles ward
+Telephone number: +27-555-3309-235
+Email address: charles@poised.com
+Physical Adress: 2714  Boundary Street Cape Town Western Cape
+Contractor name: Chet L Mattson
+Telephone number: +27-83-6359-573
+Email address: chet@quehuongta.com
+Physical Adress: 1094  Grove Street Cape Town Western Cape
+Customer name: Anne T Karp
+Telephone number: +27-82-4259-543
+Email address: anne@glacia.com
+Physical Adress: 1094  4804  Gorby Lane East London Eastern Cape
+
